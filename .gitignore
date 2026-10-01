@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ Part1_ProceduralToOOP/Part1_ProceduralToOOP/obj
+/ Part1_ProceduralToOOP/Src/obj
+/ Part1_ProceduralToOOP/Src/bin/Debug/net10.0

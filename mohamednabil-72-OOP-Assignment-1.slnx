@@ -1,4 +1,3 @@
 <Solution>
-  <Project Path=" Part1_ProceduralToOOP/Part1_ProceduralToOOP/Part1_ProceduralToOOP.csproj" />
-  <Project Path=" Part1_ProceduralToOOP/Src/Src.csproj" />
+  <Project Path="Src/Src.csproj" />
 </Solution>

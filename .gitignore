@@ -1,0 +1,25 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ Part1_ProceduralToOOP/Part1_ProceduralToOOP/obj
+/ Part1_ProceduralToOOP/Src/obj
+/ Part1_ProceduralToOOP/Src/bin/Debug/net10.0
+/ Part2_HotelReservationSystem/Src/obj
+/ Part2_HotelReservationSystem/Src2/.vs/Src2.slnx
+/ Part2_HotelReservationSystem/Src2/Src2/bin/Debug/net10.0
+/ Part2_HotelReservationSystem/Src2/Src2/obj
+/Part3_BuilderPattern/Src3/Src3/obj/Debug/net10.0
+/Part3_BuilderPattern/Src3/Src3/obj
+/Part3_BuilderPattern/Src3/.vs/Src3.slnx
+/Part3_BuilderPattern/.vs
+/ Part2_HotelReservationSystem/Src2/.vs/ProjectEvaluation/src2.metadata.v10.bin
+/ Part2_HotelReservationSystem/Src2/.vs/ProjectEvaluation/src2.projects.v10.bin
+/ Part2_HotelReservationSystem/Src2/.vs/ProjectEvaluation/src2.strings.v10.bin
+/Part4_Leetcode/1679_MaxNumberOfKSumPairs/.vs
+/Part4_Leetcode/1679_MaxNumberOfKSumPairs/Leet/.vs/Leet.slnx
+/Part4_Leetcode/1679_MaxNumberOfKSumPairs/Leet/Leet/obj
+/Part3_BuilderPattern/Src3/.vs/ProjectEvaluation/src3.metadata.v10.bin
+/Part3_BuilderPattern/Src3/.vs/ProjectEvaluation/src3.projects.v10.bin
+/Part3_BuilderPattern/Src3/.vs/ProjectEvaluation/src3.strings.v10.bin
